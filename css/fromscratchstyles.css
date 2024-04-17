@@ -1,0 +1,28 @@
+h1{
+    color:darkslategray;
+    font-family: monospace;
+}
+body{
+    background-color: burlywood;
+}
+li{
+   
+}
+.common{
+    text-align: center;
+    border: 10px solid black;
+    margin: 20px;
+    padding: 20px;
+ }
+ h3{
+    color: darkslategray;
+ }
+ ul{
+    list-style-position: inside;
+ }
+ .list{
+    font-style: italic;
+ }
+ .linktext{ 
+    text-decoration:underline
+ }
